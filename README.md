@@ -19,7 +19,7 @@ Requirements
 * scipy
 
 If you have [Anaconda](https://store.continuum.io/cshop/anaconda/) installed simply do:
-```conda install numba blz matplotlib numpy scipy```
+```conda install numba blz matplotlib numpy scipy ipython```
 
 How to run
 -----------
