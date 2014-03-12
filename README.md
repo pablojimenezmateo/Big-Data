@@ -9,6 +9,14 @@ Seems boring you say?
 
 Well, we are working with lenna, a chicken, Mandelbrot's fractal  and The Garden Of The Earthly Delights, this is as fun as it gets.
 
+Currently available tutorials (With preview links)
+--------------------------
+*[Speeding code with numba](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Numba.ipynb)
+*[Generating huge Mandelbrot fractals with Python, the quick and memory-safe way](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Generating%20huge%20Mandelbrot's%20fractals.ipynb)
+*[Working with huge images in python, the painless way](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Numba%20and%20blz.ipynb)
+*[Comparing speedups when using compression with blz](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Benchmarks.ipynb)
+
+
 Requirements
 ----------
 * [Numba](https://github.com/numba/numba)
