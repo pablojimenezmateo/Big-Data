@@ -17,9 +17,10 @@ Requirements
 * IPython
 * numpy
 * scipy
+* pandas
 
 If you have [Anaconda](https://store.continuum.io/cshop/anaconda/) installed simply do:
-```conda install numba blz matplotlib numpy scipy ipython```
+```conda install numba blz matplotlib numpy scipy ipython pandas```
 
 How to run
 -----------
