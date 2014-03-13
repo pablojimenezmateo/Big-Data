@@ -14,10 +14,10 @@ Currently available tutorials
 
 Previews are available in two formats, [nbviewer](http://nbviewer.ipython.org) a static HTML option or [Wakari](https://www.wakari.io/) an online data analysis enviroment (Recommended).
 
-* Speeding code with numba [nbviewer](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Numba.ipynb) [Wakari](https://www.wakari.io/sharing/bundle/pjimenezmateo/Numba)
-* Working with huge images in python, the painless way [nbviewer](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Numba%20and%20blz.ipynb) [Wakari](https://www.wakari.io/sharing/bundle/pjimenezmateo/Numba_and_blz)
-* Generating huge Mandelbrot fractals with Python, the quick and memory-safe way [nbviewer](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Generating%20huge%20Mandelbrot's%20fractals.ipynb) [Wakari](https://www.wakari.io/sharing/bundle/pjimenezmateo/Generating_huge_Mandelbrots_fractals)
-* Comparing speedups when using compression with blz [nbviewer](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Benchmarks.ipynb) [Wakari](https://www.wakari.io/sharing/bundle/pjimenezmateo/Benchmarks)
+* Speeding code with numba [[nbviewer]](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Numba.ipynb) [[Wakari]](https://www.wakari.io/sharing/bundle/pjimenezmateo/Numba)
+* Working with huge images in python, the painless way [[nbviewer]](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Numba%20and%20blz.ipynb) [[Wakari]](https://www.wakari.io/sharing/bundle/pjimenezmateo/Numba_and_blz)
+* Generating huge Mandelbrot fractals with Python, the quick and memory-safe way [[nbviewer]](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Generating%20huge%20Mandelbrot's%20fractals.ipynb) [[Wakari]](https://www.wakari.io/sharing/bundle/pjimenezmateo/Generating_huge_Mandelbrots_fractals)
+* Comparing speedups when using compression with blz [[nbviewer]](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Benchmarks.ipynb) [[Wakari]](https://www.wakari.io/sharing/bundle/pjimenezmateo/Benchmarks)
 
 
 Requirements
