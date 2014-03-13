@@ -32,4 +32,4 @@ If you have [Anaconda](https://store.continuum.io/cshop/anaconda/) installed sim
 
 How to run
 -----------
-Just go to the tutorials foder and execute: ```ipython notebook```
+Just go to the tutorials folder and execute: ```ipython notebook```
