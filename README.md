@@ -7,7 +7,7 @@ Well, not anymore! With this tutorials I want to show how it is possible to have
 
 Seems boring you say? 
 
-Well, we are working with lenna, a chicken, Mandelbrot's fractal  and The Garden Of The Earthly Delights, this is as fun as it gets.
+Well, we are working with an adorable racoon, a chicken, Mandelbrot's fractal and The Garden Of The Earthly Delights, this is as fun as it gets.
 
 Currently available tutorials (With preview links)
 --------------------------
