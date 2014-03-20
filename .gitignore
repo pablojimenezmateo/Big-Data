@@ -1,3 +1,5 @@
 images/*.blz/
 .ipynb_checkpoints
 Trials*.ipynb
+msft-18-SEP-2013-blosc9.blz
+blz/*
