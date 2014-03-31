@@ -22,6 +22,7 @@ Previews are available in two formats, [nbviewer](http://nbviewer.ipython.org) a
 * Comparing speedups when using compression with blz barrays [[nbviewer]](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Barray%20benchmarks.ipynb) [[Wakari]](https://www.wakari.io/sharing/bundle/pjimenezmateo/Barray_benchmarks)
 * Querying big datasets, the good way [[nbviewer]](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Bid%20Data.ipynb) [[Wakari]](https://www.wakari.io/sharing/bundle/pjimenezmateo/Bid_Data)
 * Comparing speedups when using compression with blz btables [[nbviewer]](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Btable%20benchmarks.ipynb) [[Wakari]](https://www.wakari.io/sharing/bundle/pjimenezmateo/Btable_benchmarks)
+* Comparing performance of btables in memory and disk [[nbviewer]](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Disk%20vs%20Memory,%20btable.ipynb) [[Wakari]](https://www.wakari.io/sharing/bundle/pjimenezmateo/Disk_vs_Memory_btable)
 
 Requirements
 ----------
