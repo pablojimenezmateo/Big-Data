@@ -14,7 +14,7 @@ If you are looking for something more serious, we also have a tutorial working w
 Currently available tutorials
 --------------------------
 
-Previews are available in two formats, [nbviewer](http://nbviewer.ipython.org) a static HTML option or [Wakari](https://www.wakari.io/) an online data analysis enviroment (Recommended).
+Previews are available in two formats, [nbviewer](http://nbviewer.ipython.org) a static HTML option or [Wakari](https://www.wakari.io/) an online data analysis enviroment.
 
 * Speeding code with numba [[nbviewer]](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Numba.ipynb) [[Wakari]](https://www.wakari.io/sharing/bundle/pjimenezmateo/Numba)
 * Working with huge images in python, the painless way [[nbviewer]](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Numba%20and%20blz.ipynb) [[Wakari]](https://www.wakari.io/sharing/bundle/pjimenezmateo/Numba_and_blz)
