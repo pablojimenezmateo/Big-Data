@@ -1,4 +1,4 @@
-Tutorials for numba and blz
+Working with big data, the smart way
 ============================
 
 Do you think python is slow? Or that it cannot work with big data? 
@@ -21,7 +21,7 @@ Previews are available in two formats, [nbviewer](http://nbviewer.ipython.org) a
 * Generating huge Mandelbrot fractals with Python, the quick and memory-safe way [[nbviewer]](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Generating%20huge%20Mandelbrot's%20fractals.ipynb) [[Wakari]](https://www.wakari.io/sharing/bundle/pjimenezmateo/Generating_huge_Mandelbrots_fractals)
 * Comparing speedups when using compression with blz barrays [[nbviewer]](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Barray%20benchmarks.ipynb) [[Wakari]](https://www.wakari.io/sharing/bundle/pjimenezmateo/Barray_benchmarks)
 * Querying big datasets, the good way [[nbviewer]](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Bid%20Data.ipynb) [[Wakari]](https://www.wakari.io/sharing/bundle/pjimenezmateo/Bid_Data)
-* Comparing speedups when using compression with blz btables [[nbviewer]](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Btable%20benchmarks.ipynb) [[Wakari]](https://www.wakari.io/sharing/bundle/pjimenezmateo/Btable_benchmarks)
+* Comparing speedups when using compression with blz btables in disk only [[nbviewer]](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Btable%20benchmark%20disk%20only.ipynb) [[Wakari]](https://www.wakari.io/sharing/bundle/pjimenezmateo/Btable_benchmarks)
 * Comparing performance of btables in memory and disk [[nbviewer]](http://nbviewer.ipython.org/github/pjimenezmateo/numba-blz-tutorials/blob/master/Disk%20vs%20Memory,%20btable.ipynb) [[Wakari]](https://www.wakari.io/sharing/bundle/pjimenezmateo/Disk_vs_Memory_btable)
 
 Requirements
